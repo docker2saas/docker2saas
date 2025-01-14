@@ -353,5 +353,3 @@ This project uses the GPLv2 License with conditions.
 Both individuals and commercial companies can use Docker2SaaS to build their own cloud application sales sites under the GPLv2 license.
 
 However, selling Docker2SaaS itself as a Cloud Hosting service (e.g., making Docker2SaaS an image and selling it as a cloud service through Docker2SaaS or other platforms) is prohibited.
-
-[![Laravel Forge Site Deployment Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fforge.laravel.com%2Fsite-badges%2Fe324f547-2f5e-4c81-8eab-7057a796e27e%3Flabel%3D1&style=plastic)](https://forge.laravel.com/servers/876001/sites/2585536)
